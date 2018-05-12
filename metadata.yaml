@@ -1,0 +1,30 @@
+_repo: AbbotsfordBeautiful-Britain-series_42289
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42289-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+description: ''
+gutenberg_issued: '2013-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42289'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Beautiful Britain
+subjects:
+- !lcsh 'Abbotsford (Scotland) -- Description and travel'
+- !lcc 'PR'
+- !lcsh 'Scott, Walter, 1771-1832 -- Homes and haunts'
+title: Abbotsford
+url: http://www.gutenberg.org/ebooks/42289
